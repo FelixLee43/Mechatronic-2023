@@ -2,4 +2,4 @@
 
 > 许瀵译，李昊阳，贺则凡
 
-![logo](./logo.png)
+![logo](logo.png)
